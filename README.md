@@ -2,7 +2,7 @@
 ⚡ "I built this as my very first C++ mini-game, but treated it like a real-world project."
 ✅ Beginner-level logic, Pro-level attention to detail.
 
-🚀 What It Is:
+## 🚀 What It Is:
 
 This is a terminal-based guessing game where the user must guess a randomly generated number between 1 and 100 — but with a twist:
 
@@ -11,12 +11,12 @@ This is a terminal-based guessing game where the user must guess a randomly gene
 - It warns you when you're about to run out of attempts ⏳
 - Every input gives smart feedback to keep you hooked!
 
-🧾 How to Run This:
+## 🧾 How to Run This:
 🔧 Requirements:
 
 Any C++ compiler (g++, clang++, etc.)
 
-💡 Why I Made This (As a Freshman)
+## 💡 Why I Made This (As a Freshman)
 
 I didn’t want to just copy-paste code from YouTube.  
 I wanted to build something simple, but make it feel **complete**, **interactive**, and actually **fun** to use.
